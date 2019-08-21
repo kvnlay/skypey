@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Introduction
+
+> This is a skype clone built using React and Redux
+
+## Technologies
+
+- React
+- Redux
+- NPM
+- es6
+- Node.js
+- CSS
+
+> [LIVE VERSION](https://sheltered-brushlands-74538.herokuapp.com/)
 
 ## Available Scripts
 
